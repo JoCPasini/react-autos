@@ -1,0 +1,27 @@
+.row {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.container h1 {
+    color: red;
+    font-family: "verdana";
+    font-size: 60px;
+    
+}
+
+.destacados {
+    background-color: orange;
+    color: white;
+}
+
+.card-price {
+    color: orange;
+}
+.card-price-free {
+    color: orange;
+}
+
+.card-price-free {
+    color: green;
+}

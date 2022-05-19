@@ -1,0 +1,19 @@
+.h1-destacado {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.card-text-price {
+    font-size: 1.5em;
+    color: orange;
+}
+
+.card-text-price-free{
+    font-size: 1.5em;
+    color: green;
+}
+
+.card-img-top{
+    width: 200px;
+    height: 200px;
+}
